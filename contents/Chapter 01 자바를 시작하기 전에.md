@@ -29,7 +29,7 @@ JDK9에서 G1(Garbage First)이라는 이름의 가비지 컬렉터(Gabage Colle
 </ul>
 <b>7. 동적 로딩(Dynamic Loading)을 지원한다.</b>
 <ul>
-  <li>자바는 실행 시 모든 클래스가 롸딩되지 않고 필요한 시점에 클래스를 로딩하여 사용할 수 있다.</li>
+  <li>자바는 실행 시 모든 클래스가 로딩되지 않고 필요한 시점에 클래스를 로딩하여 사용할 수 있다.</li>
 </ul>
 <br>
 <h3>JVM(Java Virtual Machine)</h3>
